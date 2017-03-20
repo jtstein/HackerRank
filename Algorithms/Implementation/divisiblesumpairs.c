@@ -1,5 +1,5 @@
-# Jordan Stein
-# https://www.hackerrank.com/challenges/divisible-sum-pairs
+// Jordan Stein
+// https://www.hackerrank.com/challenges/divisible-sum-pairs
 
 #include <math.h>
 #include <stdio.h>
